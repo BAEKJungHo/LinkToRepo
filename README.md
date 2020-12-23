@@ -1,6 +1,10 @@
 # Link To Repository
 
-> [Resume](https://github.com/BAEKJungHo/resume)
+#### [Resume](https://github.com/BAEKJungHo/resume)
+
+## Project
+
+#### 📌[Ezen. Fullfillment Service](https://github.com/BAEKJungHo/team_project_fulfillment_service)
 
 ## TIL
 
@@ -62,6 +66,8 @@
 
 #### 📌[Spring JPA Best Practice](https://github.com/BAEKJungHo/spring-jpa-best-practices)
 
+#### 📌[Restful Basic](https://github.com/BAEKJungHo/restful_basic/wiki)
+
 ## Javascript
 
 #### 📌[Learning Javascript](https://github.com/BAEKJungHo/oreilly_learning_javascript)
@@ -73,6 +79,12 @@
 ## Docker
 
 #### 📌[도커](https://github.com/BAEKJungHo/docker)
+
+## HTTP & Network
+
+#### 📌[Http 완벽 가이드](https://github.com/BAEKJungHo/oreilly_http_perfect_guide)
+
+#### 📌[인프런. Web2 Home Server](https://github.com/BAEKJungHo/web2_home_server)
 
 ## Etc
 

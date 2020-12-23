@@ -1,6 +1,6 @@
 # Link To Repository
 
-#### [Resume](https://github.com/BAEKJungHo/resume)
+#### 📃[Resume](https://github.com/BAEKJungHo/resume)
 
 ## Project
 

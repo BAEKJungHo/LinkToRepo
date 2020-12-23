@@ -6,6 +6,10 @@
 
 #### 📌[Ezen. Fullfillment Service](https://github.com/BAEKJungHo/team_project_fulfillment_service)
 
+## Blog
+
+#### 📌[GitHub Blog](https://github.com/BAEKJungHo/BAEKJungHo.github.io)
+
 ## TIL
 
 #### 📌[Today I Learned](https://github.com/BAEKJungHo/TIL)
@@ -76,6 +80,10 @@
 
 #### 📌[파이썬 기초](https://github.com/BAEKJungHo/python-basic)
 
+## DataBase
+
+#### 📌[Real MySQL](https://github.com/BAEKJungHo/database-real_mysql)
+
 ## Docker
 
 #### 📌[도커](https://github.com/BAEKJungHo/docker)
@@ -91,4 +99,6 @@
 #### 📌[Question and Answer](https://github.com/BAEKJungHo/Question-Answer)
 
 #### 📌[JetBrains Space Guide](https://github.com/BAEKJungHo/space-guide)
+
+#### 📌[정보처리 기사](https://github.com/BAEKJungHo/Information-Processing-Engineer)
 

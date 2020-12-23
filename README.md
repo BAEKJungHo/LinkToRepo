@@ -1,2 +1,3 @@
-# LinkToRepo
-저장소 바로가기 링크
+# Link To Repository
+
+#### 📌[디자인패턴 & 리팩토링](https://github.com/BAEKJungHo/designpattern)

@@ -40,8 +40,6 @@
 
 #### 📌[인프런. 더 자바 8](https://github.com/BAEKJungHo/the-java-8)
 
-#### 📌[인프런. 더 자바 8](https://github.com/BAEKJungHo/the-java-8)
-
 #### 📌[인프런. 더 자바 코드를 조작하는 다양한 방법](https://github.com/BAEKJungHo/the_java_manipulate_code)
 
 #### 📌[Effective Java](https://github.com/BAEKJungHo/effective_java)
@@ -71,6 +69,8 @@
 ## Javascript
 
 #### 📌[Learning Javascript](https://github.com/BAEKJungHo/oreilly_learning_javascript)
+
+#### 📌[Mayeye. React Study](https://github.com/BAEKJungHo/group_study_react_basic)
 
 ## Python
 

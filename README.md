@@ -50,6 +50,8 @@
 
 #### 📌[Java Network Programming](https://github.com/BAEKJungHo/java_network_programming)
 
+#### 📌[인프런. 더 자바 애플리케이션을 테스트하는 다양한 방법](https://github.com/BAEKJungHo/test-code-in-java)
+
 ## Spring
 
 #### 📌[인프런. 스프링 핵심 원리](https://github.com/BAEKJungHo/spring-core-principle)

@@ -120,4 +120,4 @@
 - [Media Giphy](https://giphy.com/explore/media)
 - [Secure Coding Guide](http://www.devkuma.com/books/31)
 - [Chrome Dev tools](https://developers.google.com/web/tools/chrome-devtools/shortcuts?hl=ko)
-  - 크롬 관련 단축키 등을 볼 수 
+  - 크롬 관련 단축키 등을 볼 수 있음

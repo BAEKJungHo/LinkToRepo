@@ -121,3 +121,4 @@
 - [Secure Coding Guide](http://www.devkuma.com/books/31)
 - [Chrome Dev tools](https://developers.google.com/web/tools/chrome-devtools/shortcuts?hl=ko)
   - 크롬 관련 단축키 등을 볼 수 있음
+- [Wiki 형 깃헙 블로그. 기계인간 John Grib](https://johngrib.github.io/)

@@ -125,3 +125,4 @@
 - [알고리즘, 큰돌의 터전](https://blog.naver.com/jhc9639)
 - [festa](https://festa.io/)
 - [코드 플러스(알고리즘 강의 사이트)](https://code.plus/)
+- [백엔드 개발자로 입사를 준비하면서](https://reposhub.com/python/learning-tutorial/ksundong-backend-interview-question.html)

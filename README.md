@@ -74,6 +74,8 @@
 
 #### 📌[Restful Basic](https://github.com/BAEKJungHo/restful_basic/wiki)
 
+#### 📌[Spring JPA 활용](https://github.com/BAEKJungHo/inflearn-jpa-project)
+
 ## Javascript
 
 #### 📌[Learning Javascript](https://github.com/BAEKJungHo/oreilly_learning_javascript)
